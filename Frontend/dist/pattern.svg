@@ -1,0 +1,12 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark Blue Left -->
+  <path d="M40 100 L80 40 L120 40 L80 100 Z" fill="#1e3a8a"/>
+  <!-- Light Blue Top -->
+  <path d="M80 40 L150 40 L190 100 L120 40 Z" fill="#93c5fd"/>
+  <!-- Medium Blue Bottom Right -->
+  <path d="M120 160 L190 100 L150 160 Z" fill="#60a5fa"/>
+  <!-- Standard Blue Bottom Left -->
+  <path d="M40 100 L80 100 L120 160 L80 160 Z" fill="#2563eb"/>
+  <!-- Connectors -->
+  <path d="M80 100 L190 100 L150 160 L120 160 Z" fill="#3b82f6"/>
+</svg>
